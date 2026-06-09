@@ -4,7 +4,7 @@
 ## 💫 About Me:
 I'm a full stack developer passionate about creating interactive, scalable, and user-friendly web applications using modern technologies like React.js, Node.js,Express.js and MongoDB.
 
-- 🔭 I’m currently a **Final-year BTech student**  
+- 🎓 I’m a **BTech Graduate (2026)**  
 - ⚡ **Love building sleek and responsive full stack applications** 
 
 ## 💻 Tech Stack:
@@ -17,6 +17,8 @@ I'm a full stack developer passionate about creating interactive, scalable, and 
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ## 🚀 Projects
 
@@ -27,7 +29,7 @@ I'm a full stack developer passionate about creating interactive, scalable, and 
 | [Excellytics](https://github.com/THEJUSKRISHNAN/Excellytics.git) | A full-stack web app for uploading, analyzing, and visualizing Excel data with interactive charts and user/admin dashboards. |
 | [MovieMate](https://github.com/THEJUSKRISHNAN/MovieMate.git) | A responsive React app to search, view, and favorite movies using TMDB, with persistent local storage and Tailwind CSS styling. |
 | [IMACT-BTECH-MINI-PROJECT](https://github.com/THEJUSKRISHNAN/IMPACT-BTECH-MINI-PROJECT.git) | A predictive model using FastAPI and XGBoost to assess landslide risks based on environmental factors. |
-| [Nike Landing Page](https://github.com/THEJUSKRISHNAN/nike-landing-page.git) | A visually appealing Nike landing page built using React and Tailwind CSS. |
+| [SPEAK-BTECH-MAIN-PROJECT](https://github.com/THEJUSKRISHNAN/SPEAK-BTECH-MAIN-PROJECT.git) | An AI-powered assistive video communication platform for deaf or hard-of-hearing and hearing individuals, featuring real-time speech-to-text, sign-to-text, and text-to-speech translation, secure WebRTC video calling, and live communication powered by Whisper, DETR, SpeechT5, Flask-SocketIO, React, and MongoDB. |
 
 
 ## 📊 GitHub Stats
